@@ -1,5 +1,5 @@
 
-<img align="right" alt="Csharp" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="right" alt="Csharp" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 
 # Módulo Primeiros Passos
@@ -40,5 +40,3 @@ Saída:
 
 Hello, Bob! You have a 3 messages in your inbox. The temperature is 34.4 celsius.
 ```
-
-          

@@ -26,7 +26,7 @@ namespace moduloVariaveis
 
             //---------------------------------------------------------------------------------------------------------------------------
 
-            // Etapa 2 - Gravar um literal int no console:
+            // Etapa 2 - Gravar um literal int no console
             // O termo: int é a abreviação de inteiro, denominação oficial "int", frequentemente chamados de "inteiro";
             //Console.WriteLine(123);
 

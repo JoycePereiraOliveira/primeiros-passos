@@ -13,7 +13,6 @@
 
  ![desafio01](https://user-images.githubusercontent.com/99741555/193692132-f744f73a-6849-4b76-8936-cab76d77d3e5.PNG)
 
-
 ```
 Saída:
 
@@ -40,3 +39,27 @@ Saída:
 
 Hello, Bob! You have a 3 messages in your inbox. The temperature is 34.4 celsius.
 ```
+
+
+
+# Módulo Formatação de Caracteres
+
+- <h3> Executar formatação de cadeia de caracteres básica em C# </h3>
+
+### Desafio 03:
+---
+<h3> - Imprimir instruções para o usuário final para que ele saiba onde seu aplicativo gerará arquivos de dados: </h3>
+
+
+![codigoModulo3C#](https://user-images.githubusercontent.com/99741555/194652923-ce8ea7de-bcb6-4e56-9812-146d0df282f5.PNG)
+
+```
+Saída:
+
+View English output:
+		c:\Exercise\ACME\data.txt
+
+Посмотреть русский вывод:
+		c:\Exercise\ACME\ru-RU\data.txt
+```
+

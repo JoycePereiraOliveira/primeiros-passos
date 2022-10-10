@@ -11,6 +11,7 @@ namespace moduloFormatacaoChar
         static void Main(string[] args)
         {
 
+            // Módulo - Formatação Char
             // Exercício - Sequências de escape de caractere e cadeias de caracteres textuais
 
             // Sequência de caracteres de escape começam com uma barra invertida: \;

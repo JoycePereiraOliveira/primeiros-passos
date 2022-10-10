@@ -11,8 +11,8 @@ namespace moduloVariaveis
         static void Main(string[] args)
         {
 
-            // Exercício - Valores Liteirais
-            // Armazenar e recuperar dados usando valores literais e variáveis em C#
+            // Módulo - Valores Liteirais
+            // Exercício - Armazenar e recuperar dados usando valores literais e variáveis em C#
 
             // Etapa 1: Gravar um literal char no console
 

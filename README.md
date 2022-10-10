@@ -63,3 +63,20 @@ View English output:
 		c:\Exercise\ACME\ru-RU\data.txt
 ```
 
+
+
+ # Módulo Operações Básicas
+ 
+ - <h3> Executar operações básicas em números em C# </h3>
+ 
+ ### Desafio 04:
+ ---
+ <h3> - Escreva o código no Editor do .NET para calcular os graus Celsius considerando a temperatura atual em Fahrenheit </h3>
+ 
+ ![codigoModulo4C#](https://user-images.githubusercontent.com/99741555/194956779-797c50e5-5cd5-4dfc-add3-4ca95f090172.PNG)
+ 
+ ```
+ Saída:
+ 
+ The temperature is 34.444444444444444444444444447 Celsius.
+ ```
